@@ -56,6 +56,11 @@ The project adopts the **MVVM** (Model-View-ViewModel) architecture for maintain
 **5.** **Enjoy Smooth Animations::** Experience interactive and animated charts.
 
 
+**Screenshots:**
 
+
+![Simulator-Screenshot-iPhone-15-P (1)](https://github.com/user-attachments/assets/67109c26-9126-4792-884a-4a5d86b3e42c)
+![Simulator-Screenshot-iPhone-15-P (2)](https://github.com/user-attachments/assets/ab86ab43-c4a9-4d9b-9438-5bbf7095dbe8)
+![Simulator-Screenshot-iPhone-15-P (3)](https://github.com/user-attachments/assets/f7211d04-0f3f-42d0-9d62-f27d0b9452cf)
 
 
